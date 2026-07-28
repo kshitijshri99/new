@@ -338,8 +338,8 @@ Touches **A03 (Injection), A05 (Security Misconfiguration), A07 (Identification 
 **Your Name**
 Cybersecurity / DevSecOps Enthusiast — C-DAC PGCP-ITISS
 
-- 🔗 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- 🔗 GitHub: [@yourusername](https://github.com/kshitijshri99)
+- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/kshitij-shrivastava-17551b172)
 
 ---
 
