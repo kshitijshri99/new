@@ -336,7 +336,7 @@ Touches **A03 (Injection), A05 (Security Misconfiguration), A07 (Identification 
 ## 👤 18. Author
 
 **Your Name**
-Cybersecurity / DevSecOps Enthusiast — C-DAC PGCP-ITISS
+Kshitij Shrivastava — C-DAC PGCP-ITISS
 
 - 🔗 GitHub: (https://github.com/kshitijshri99)
 - 💼 LinkedIn: (https://www.linkedin.com/in/kshitij-shrivastava-17551b172)
